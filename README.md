@@ -83,10 +83,6 @@ portfolio/
 Full-Stack Developer | UI/UX Designer  
 [LinkedIn] | [GitHub] | [Portfolio Link]
 
----
-## UI template
-<img width="1920" height="10200" alt="screencapture-guruprasads04-github-io-portfolio-2025-08-05-21_25_31" src="https://github.com/user-attachments/assets/0c828cb7-9186-4529-aca2-9107d6e4c550" />
-
 
 ## 📌 Live Preview
 
